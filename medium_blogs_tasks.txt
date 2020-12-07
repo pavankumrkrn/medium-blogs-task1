@@ -1,0 +1,11 @@
+How to copy a composite data type by value in JavaScript : 
+Link : https://muntha-pavan.medium.com/how-to-copy-a-composite-data-type-by-value-in-javascript-27f286042b86
+
+Objects and their internal representation in JavaScript
+Link : https://muntha-pavan.medium.com/objects-and-their-internal-representation-in-javascript-87213eb3a758
+
+Why there is a difference in behavior for copying contents in primitive and non primitive data types in JavaScript:
+Link : https://muntha-pavan.medium.com/why-there-is-a-difference-in-behavior-for-copying-contents-in-primitive-and-non-primitive-data-21ba0478ccdf
+
+HTTP 1.1 vs HTTP 2 :
+Link : https://muntha-pavan.medium.com/http-1-1-vs-http-2-5638838e2f42
